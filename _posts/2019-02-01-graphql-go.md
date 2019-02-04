@@ -8,7 +8,7 @@ date:   2019-02-01 8:00:00
 categories: go
 img: graphql-go.png
 banner: graphql-go.png
-tags: coding
+tags: online-services
 description: "Getting started with graphql in GoLang"
 ---
 

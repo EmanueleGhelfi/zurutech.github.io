@@ -47,7 +47,7 @@ themeColor:
   announcement:
     backgroundColor: "#E4F1FE"
     fontColor: "#000000"
-  coding:
+  online-services:
     backgroundColor: "#E4F1FE"
     fontColor: "#000000"
   devices:
